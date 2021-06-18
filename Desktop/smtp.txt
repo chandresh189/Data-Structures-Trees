@@ -1,0 +1,5 @@
+
+username - chetanyajangir9753@gmail.com
+Password - FF4BDB09DDA06BEC00DAD7D39FDCCB644BC4
+Server - smtp.elasticemail.com
+Port - 2525
